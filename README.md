@@ -1,5 +1,5 @@
 # Sussythings
-That's a Minecraft 1.16.5 mod
+That's a Minecraft 1.16.5 mod made with Mcreator
 Download Minecraft forge 1.16.5  --BY Eloraam of Redpower and SpaceToad of Buildcraft--
 Extract the file, drag it into your mod folder( if you don't hve one create it)
 Create a Minecraft installation, select forge as version, select the sussythings mod folder as mod folder
